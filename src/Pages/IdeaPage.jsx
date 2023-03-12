@@ -1,7 +1,7 @@
 import TimelineJson from "../JSONS/TimelineParagraph.json"
 
 function IdeaPage() {
-    let Logo = require('../Images/ImplementatationTime.png');
+    let Logo = require('../Images/timeline.jfif');
     return(
         <div id="mainMenu">
             {
